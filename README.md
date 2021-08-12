@@ -7,12 +7,12 @@
 
 <!-- Here are some ideas to get you started:
 --> -->
+I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Node.js (JavaScript, APIs).
 
 - 😻 I recently won the coderHack competition !.
 - 🔭 I’m currently exploring AI and Web-Development, looking for opportunities to contribute to open source
 - 🌱 I’m currently learning , UI UX, React, Vue, Node JS express and many more.
 - 👯 I’m looking to collaborate on Web Development and AI competitions
-- 😃 I'm also looking to make friends, find mentors, motivation buddy!
 - 💬 Ask me about Web Development(Front-end)!!
 - 📫 How to reach me: [E-mail](mailto:vinodselpol@gmail.com?subject=[GitHub]%20Source%20Readme) [LinkedIn](https://www.linkedin.com/in/vinod-selpol/)
 
