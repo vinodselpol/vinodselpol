@@ -1,13 +1,12 @@
 ### Hi there 👋
 
 <h1 align="left">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Vinod</h1>
-<h3 align="left"> Software engineer-I'm a Front-end developer who likes to work with JavaScript/Typescript (react, Next.js, Node). </h3>
+<h3 align="left"> I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Node.js (JavaScript, APIs). </h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rashi1997&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p> -->
 
 <!-- Here are some ideas to get you started:
 --> -->
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Node.js (JavaScript, APIs).
 
 - 😻 I recently won the coderHack competition !.
 - 🔭 I’m currently exploring AI and Web-Development, looking for opportunities to contribute to open source
