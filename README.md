@@ -22,7 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinodselpol&show_icons=true&locale=en" alt="vinodselpol" /></p>
 
 <b><em>Programming activity (Last 7 days):</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vinodselpol" alt="WakaTime" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vinodkrishnaselpol" alt="WakaTime" />
   </p>
 </div>
 <h3 align="left">Streak</h3>
