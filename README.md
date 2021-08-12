@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="left">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Vinod</h1>
 <h3 align="left"> I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Node.js (JavaScript, APIs). </h3>
@@ -21,9 +21,9 @@
 <h3 align="left">Github Stats </h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinodselpol&show_icons=true&locale=en" alt="vinodselpol" /></p>
 
-<b><em>Programming activity (Last 7 days):</em></b> <br/>
+<!-- <b><em>Programming activity (Last 7 days):</em></b> <br/>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vinodselpol" alt="WakaTime" />
-  </p>
+  </p> -->
 </div>
 <h3 align="left">Streak</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinodselpol&" alt="vinodselpol" /></p>
