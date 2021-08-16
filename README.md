@@ -8,8 +8,8 @@
 <!-- Here are some ideas to get you started:
 --> -->
 
-- 😻 I recently won the coderHack competition !.
-- 🔭 I’m currently exploring AI and Web-Development, looking for opportunities to contribute to open source
+<!-- - 😻 I recently won the coderHack competition !.
+- 🔭 I’m currently exploring AI and Web-Development, looking for opportunities to contribute to open source -->
 - 🌱 I’m currently learning , UI UX, React, Vue, Node JS express and many more.
 - 👯 I’m looking to collaborate on Web Development and AI competitions
 - 💬 Ask me about Web Development(Front-end)!!
