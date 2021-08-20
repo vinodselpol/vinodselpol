@@ -1,7 +1,7 @@
 
 
-<!-- <h1 align="left">Hi, I'm Vinod <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> </h1>
-<h3 align="left"> I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Node.js (JavaScript, APIs). </h3> -->
+<h1 align="left">Hi, I'm Vinod <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> </h1>
+<h3 align="left"> I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Node.js (JavaScript, APIs). </h3>
  -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rashi1997&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p> -->
 
